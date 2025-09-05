@@ -1,4 +1,7 @@
-# README.md
+💬 About Me
+🌍 I´m from Málaga, Spain.
+🎓 Currently studying at web applications development at CPIFP Alan Turing.
+💻 Most interesting in Full Stack development.
 
 # 🚀 Mi Proyecto de Desarrollo Web
 
